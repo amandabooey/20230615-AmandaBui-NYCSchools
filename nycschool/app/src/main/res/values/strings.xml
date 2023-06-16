@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NYC Schools</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="sat_data_title">"SAT Score Information"</string>
+    <string name="average_critical_reading_score">"Average reading score:"</string>
+    <string name="average_math_score">"Average math score:"</string>
+    <string name="average_writing_score">"Average writing score:"</string>
+    <string name="unavailable_score">"Score unavailable"</string>
+</resources>
